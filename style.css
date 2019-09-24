@@ -1,0 +1,60 @@
+a {
+text-decoration: none;
+color: #222;
+font-family: arial, verdana, sans-serif;
+font-size: small;
+}
+
+.barreduhaut
+
+{
+    text-align: right;
+    margin: 150px;
+    margin-top: 5px;
+    margin-right: 10px;
+    word-spacing: 20px;
+
+ }
+
+.logo
+
+{
+text-align: center;	
+margin: 40px;
+}
+
+.search
+
+{
+text-align: center;
+margin: 60px;		
+}
+
+.searchlucky
+
+{
+text-align: center;
+margin: 180px;
+margin-top: 20px;		
+}
+
+.france 
+{
+color: #222;
+background-color: #EEEFFF;
+font-family: arial, verdana, sans-serif;
+font-size: small;
+height: 40px;
+margin: 0px;
+}
+
+.barredubas 
+{
+
+text-align: right;	
+background-color: #EEEFFF;
+height: 40px;
+margin: 0px;
+word-spacing: 20px;
+
+}
